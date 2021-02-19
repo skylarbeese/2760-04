@@ -83,4 +83,4 @@ const fortun = GetMess(fate)
 
 const fortRevealed = `on ${monthName} the ${day} the you will ${fortun}`
 console.log(fortRevealed)
-let op = document.querySelector("forture").innerText = fortRevealed 
+ document.querySelector(".for").innerText = fortRevealed 
