@@ -57,22 +57,22 @@ function GetMess(fate) {
     let mess
     switch (fate) {
         case 1:
-          mess = "mess 1"
+          mess = "winv the lottery "
           break
         case 2:
-        mess = "mess 2"
+        mess = "fail your math test"
          break;
         case 3:
-         mess = "mess 3"
+         mess = "fine 10$ on your way to work"
          break
         case 4:
-         mess = "mess 4"
+         mess = "win your dream vacation"
         break
         case 5:
-         mess = "mess 5"
+         mess = "slip on a patch of ice on the sidewalk"
           break
         default:
-            mess = "not a moess"
+            mess = "not a fortune"
           break
     }
     return mess
